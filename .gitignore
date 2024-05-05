@@ -1,0 +1,7 @@
+# Ignore credentials file in config directory
+secret_folder/
+.env
+.vscode/
+__pycache__/
+venv/
+calendar_demo.py
